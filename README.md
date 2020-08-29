@@ -1,1 +1,1 @@
-### The branch includs transcipt and reports for porcjecs in my Bachelor degree 
+### The branch includs transcipt and reports for porcjecs during my Bachelor
