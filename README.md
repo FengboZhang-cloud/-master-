@@ -1,1 +1,1 @@
-### two folders including transcipts and reports for porcjecs in my Master and Bachelor 
+### Two folders including transcipts and reports for porcjecs in my Master and Bachelor 
