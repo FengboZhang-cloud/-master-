@@ -1,1 +1,1 @@
-### This branch includs transcipt and reports for porcjecs in my Master degree and the materials of my bachelor degree is in 'bachelor' branch.
+### This branch includs transcipt and reports for porcjecs in my Master degree, and the other materials are in 'bachelor' branch.
