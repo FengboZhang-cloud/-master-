@@ -1,1 +1,1 @@
-### Folder including transcipt and reports for porcjecs in my Master degree
+### This branch includs transcipt and reports for porcjecs in my Master degree and the materials of my bachelor degree is in 'bachelor' branch.
