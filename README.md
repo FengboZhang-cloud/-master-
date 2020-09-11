@@ -1,1 +1,1 @@
-### This branch includs transcript and reports for porcjecs during my Master, and other materials are in 'bachelor' branch.
+### This branch includes transcript and reports for projects during my Master, and other materials are in the 'bachelor' branch.
