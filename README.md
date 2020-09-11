@@ -1,1 +1,1 @@
-### The branch includs transcipt and reports for porcjecs during my Bachelor
+### The branch includes transcript and reports for projects during my Bachelor
